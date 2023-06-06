@@ -1,0 +1,6 @@
+sources:
+  - name: ORACLE_RDS
+    database: FIVETRAN_DB
+    schema: ORACLE_RDS_HTETHTETEI_TEST_ISOLADMIN
+    tables:
+      - name: NATION
